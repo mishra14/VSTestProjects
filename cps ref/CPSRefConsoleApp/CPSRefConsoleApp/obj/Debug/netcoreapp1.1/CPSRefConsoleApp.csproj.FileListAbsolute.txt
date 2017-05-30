@@ -1,0 +1,6 @@
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\bin\Debug\netcoreapp1.1\CPSRefConsoleApp.deps.json
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\bin\Debug\netcoreapp1.1\CPSRefConsoleApp.runtimeconfig.json
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\bin\Debug\netcoreapp1.1\CPSRefConsoleApp.runtimeconfig.dev.json
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\bin\Debug\netcoreapp1.1\CPSRefConsoleApp.dll
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\obj\Debug\netcoreapp1.1\CPSRefConsoleApp.csprojResolveAssemblyReference.cache
+F:\validation\VSTest\cps ref\CPSRefConsoleApp\CPSRefConsoleApp\obj\Debug\netcoreapp1.1\CPSRefConsoleApp.AssemblyInfo.cs

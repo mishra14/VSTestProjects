@@ -1,0 +1,4 @@
+F:\validation\VSTest\json\ProjectJsonCLassLibrary\ProjectJsonCLassLibrary\bin\Debug\ProjectJsonCLassLibrary.dll
+F:\validation\VSTest\json\ProjectJsonCLassLibrary\ProjectJsonCLassLibrary\bin\Debug\ProjectJsonCLassLibrary.pdb
+F:\validation\VSTest\json\ProjectJsonCLassLibrary\ProjectJsonCLassLibrary\obj\Debug\ProjectJsonCLassLibrary.dll
+F:\validation\VSTest\json\ProjectJsonCLassLibrary\ProjectJsonCLassLibrary\obj\Debug\ProjectJsonCLassLibrary.pdb

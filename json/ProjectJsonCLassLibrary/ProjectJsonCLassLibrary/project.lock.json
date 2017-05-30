@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {},
+    ".NETFramework,Version=v4.6/win": {},
+    ".NETFramework,Version=v4.6/win-anycpu": {},
+    ".NETFramework,Version=v4.6/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "": [
+      "Newtonsoft.JsonProjectJson >= 10.0.2"
+    ],
+    ".NETFramework,Version=v4.6": []
+  },
+  "packageFolders": {
+    "C:\\Users\\anmishr\\.nuget\\packages\\": {},
+    "C:\\Users\\anmishr\\.dotnet\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "F:\\validation\\VSTest\\json\\ProjectJsonCLassLibrary\\ProjectJsonCLassLibrary\\ProjectJsonCLassLibrary.csproj",
+      "projectName": "ProjectJsonCLassLibrary",
+      "projectPath": "F:\\validation\\VSTest\\json\\ProjectJsonCLassLibrary\\ProjectJsonCLassLibrary\\ProjectJsonCLassLibrary.csproj",
+      "projectJsonPath": "F:\\validation\\VSTest\\json\\ProjectJsonCLassLibrary\\ProjectJsonCLassLibrary\\project.json",
+      "projectStyle": "ProjectJson"
+    },
+    "dependencies": {
+      "Newtonsoft.JsonProjectJson": "10.0.2"
+    },
+    "frameworks": {
+      "net46": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-anycpu": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Newtonsoft.JsonProjectJson. No packages exist with this id in source(s): CliFallbackFolder, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "Newtonsoft.JsonProjectJson",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6",
+        ".NETFramework,Version=v4.6 (win)",
+        ".NETFramework,Version=v4.6 (win-anycpu)",
+        ".NETFramework,Version=v4.6 (win-x86)"
+      ]
+    }
+  ]
+}

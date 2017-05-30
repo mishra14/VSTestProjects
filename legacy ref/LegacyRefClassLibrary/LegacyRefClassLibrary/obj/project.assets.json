@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {},
+    ".NETFramework,Version=v4.5.2/win": {},
+    ".NETFramework,Version=v4.5.2/win-x64": {},
+    ".NETFramework,Version=v4.5.2/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Newtonsoft.Jsonlegacy >= 10.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\anmishr\\.nuget\\packages\\": {},
+    "C:\\Users\\anmishr\\.dotnet\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\validation\\VSTest\\legacy ref\\LegacyRefClassLibrary\\LegacyRefClassLibrary\\LegacyRefClassLibrary.csproj",
+      "projectName": "LegacyRefClassLibrary",
+      "projectPath": "F:\\validation\\VSTest\\legacy ref\\LegacyRefClassLibrary\\LegacyRefClassLibrary\\LegacyRefClassLibrary.csproj",
+      "outputPath": "F:\\validation\\VSTest\\legacy ref\\LegacyRefClassLibrary\\LegacyRefClassLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "dependencies": {
+      "Newtonsoft.Jsonlegacy": {
+        "target": "Package",
+        "version": "10.0.2"
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Newtonsoft.Jsonlegacy": {
+            "target": "Package",
+            "version": "10.0.2"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Newtonsoft.Jsonlegacy. No packages exist with this id in source(s): CliFallbackFolder, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "Newtonsoft.Jsonlegacy",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5.2",
+        ".NETFramework,Version=v4.5.2 (win)",
+        ".NETFramework,Version=v4.5.2 (win-x64)",
+        ".NETFramework,Version=v4.5.2 (win-x86)"
+      ]
+    }
+  ]
+}
